@@ -18,7 +18,8 @@ Donor Thalasemia adalah aplikasi yang membantu pasien thalasemia dan pendonor da
 
 - **Bahasa Pemrograman:** Kotlin
 - **Framework:** Android SDK
-- **Database:** Firebase / SQLite
+- **Backend:** Appscript
+- **Database:** Google Drive
 
 ## 📦 Instalasi
 
